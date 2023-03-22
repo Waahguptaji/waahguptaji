@@ -1,9 +1,9 @@
 ![Mast](https://github.com/usebanner.png)
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">Full-time passionate thinker🤔 and part-time Android Developer👨🏻‍💻 from Indore.</h3>
-![7e4f01acde62cfa30b1d0aaa6401c577](https://user-images.githubusercontent.com/90421429/227056276-230d2d61-6b6d-4e6e-880a-3479adf1cf08.gif)
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/7e/4f/01/7e4f01acde62cfa30b1d0aaa6401c577.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waahguptaji" alt="waahguptaji" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/waahguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/waahguptaji?logo=twitter&style=for-the-badge" alt="waahguptaji" /></a> </p>
 
