@@ -1,4 +1,4 @@
-![logo](https://github.com/Waahguptaji/waahguptaji/blob/main/Banner.gif)
+![logo](https://github.com/Waahguptaji/waahguptaji/blob/main/SahilBanner.gif)
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">Full-time passionate thinker🤔 and part-time Android Developer👨🏻‍💻 from Indore.</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/7e/4f/01/7e4f01acde62cfa30b1d0aaa6401c577.gif">
