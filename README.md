@@ -1,15 +1,15 @@
 ![logo](https://github.com/Waahguptaji/waahguptaji/blob/main/SahilBanner.gif)
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
-<h3 align="center">Full-time passionate thinker🤔 and part-time Android Developer👨🏻‍💻 from Indore.</h3>
+<h3 align="center">Full-time passionate dreamer🤔 and part-time Front-End & Android Developer👨🏻‍💻 from Indore.</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/7e/4f/01/7e4f01acde62cfa30b1d0aaa6401c577.gif">
 
 
 
 <p align="left"> <a href="https://twitter.com/waahguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/waahguptaji?logo=twitter&style=for-the-badge" alt="waahguptaji" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase and Kotlin.**
+- 🌱 I’m currently learning **Bootstrap**
 
-- 💬 Ask me about **Native Android Development, Data Structures and Algorithms.**
+- 💬 Ask me about **Web Development, Native Android Development, Data Structures and Algorithms.**
 
 - 📫 How to reach me **sahilgupta742@gmail.com**
 
