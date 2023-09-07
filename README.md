@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/waahguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/waahguptaji?logo=twitter&style=for-the-badge" alt="waahguptaji" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/waahguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/waahguptaji?logo=twitter&style=for-the-badge" alt="waahguptaji" /></a> </p>-->
 
 - 🌱 I’m currently learning **Bootstrap**
 
