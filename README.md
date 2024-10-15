@@ -1,4 +1,4 @@
-![logo](https://github.com/Waahguptaji/waahguptaji/blob/main/SahilBanner.gif)
+
 
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer 🚀 from Indore, who loves to build products from scratch.</h3>
